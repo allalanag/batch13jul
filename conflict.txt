@@ -1,1 +1,5 @@
 this the text added in bf2 branch
+
+This is a conflict.txt  in master branch
+
+THis is the resolved conflict
